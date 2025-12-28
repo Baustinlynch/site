@@ -1,0 +1,48 @@
+
+body {
+background-color: #CCD5AE;
+}
+
+.jetbrains-mono- {
+  font-family: "JetBrains Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+title {
+font-size: large;
+color:#faedcdf0;
+}
+
+nav {
+padding: 0.5rem 1rem;
+text-align: center;
+font-size: 3.3vw;
+color: #FEFAE0;
+margin-top: 2.5vh;
+
+}
+
+.top-box {
+  border: 2.2px solid #ece0c1;   /* box around text */
+  padding: 0.1rem 0.5rem;       /* space inside box */
+  margin-right: 1rem;           /* gap between items */
+  color: #FEFAE0;
+  text-align: center;
+}
+
+body {
+  font-family: 'JetBrains Mono', monospace;
+  margin-left: 2.5vw;
+  margin-right: 2.5vw;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+hr {margin: auto;
+  color: inherit;
+}
