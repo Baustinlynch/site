@@ -6,13 +6,6 @@
   --accent: #534b52;/* muted purple */
 }
 
-.jetbrains-mono- {
-  font-family: "JetBrains Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: 300;
-  font-style: normal;
-}
-
 title {
   font-size: large;
   color: var(--muted);
@@ -47,15 +40,6 @@ body {
 
 a { color: inherit; text-decoration: none; }
 hr { margin: auto; color: inherit; }
-
-
-#topo-bg {
-  position: fixed;
-  inset: 0;
-  width: 100vw;
-  height: 100vh;
-  z-index: -1;
-}
 
 a{
   text-decoration: underline;
