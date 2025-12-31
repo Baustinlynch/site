@@ -37,9 +37,14 @@ body {
   font-size: 2.25vw;
 }
 
-a { color: inherit; text-decoration: none; }
 hr { margin: auto; color: inherit; }
 
 a{
+  color: inherit;
   text-decoration: underline;
+}
+
+p{
+  
+  
 }
