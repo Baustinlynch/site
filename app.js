@@ -18,3 +18,9 @@ if (window.initTopoBackground) {
     // omit `seed` to get a new random map each load
     window.initTopoBackground({ scale: 0.003, octaves: 5, contourInterval: 0.04 });
 }
+
+function pullCommits() {
+    fetch("https://api.github.com/users/Baustinlynch/commits")
+    
+    
+}
